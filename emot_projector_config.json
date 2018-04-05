@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "My Project",
+      "tensorShape": [
+        7516,
+        100
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/escottgoodwin/emotion_detection/master/emotion_vecs.tsv,
+      "metadataPath": "https://raw.githubusercontent.com/escottgoodwin/emotion_detection/master/emot_vecs_meta.tsv"
+    }
+  ]
+}
