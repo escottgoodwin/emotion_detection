@@ -1,13 +1,13 @@
 {
   "embeddings": [
     {
-      "tensorName": "My Project",
+      "tensorName": "Emotion Centers",
       "tensorShape": [
-        7516,
+        7,
         100
       ],
-      "tensorPath": "https://raw.githubusercontent.com/escottgoodwin/emotion_detection/master/emotion_vecs.tsv,
-      "metadataPath": "https://raw.githubusercontent.com/escottgoodwin/emotion_detection/master/emot_vecs_meta.tsv"
+      "tensorPath": "https://raw.githubusercontent.com/escottgoodwin/emotion_detection/master/emot_vecs_ctr.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/escottgoodwin/emotion_detection/master/emot_lablel_ctr.tsv"
     }
   ]
 }
